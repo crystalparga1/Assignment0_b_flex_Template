@@ -23,3 +23,20 @@ Hopefully you will have this ahah: `Ahah! I could use nothing but flex container
 ## WUT??? I could create this myself?
 
 Read [here for how this project was created.](/docs/HOW_CREATED.md)
+
+## Additional Flex resources.
+
+By now you might be guessing that this bootcamp will be suggesting that you will be researching and researching and researching - we're not going to give you every answer, nor would you want anyone to. You'll want to validate your skills by research most things yourself, and use the bootcamp to gauge your expectations and progress.
+
+But here are a few acceptable minimums - your research should be at least this good:
+
+#### One great CSS resource:
+
+One of many ... https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+#### Videos on nested containers
+
+- wes boss on nesting!!:
+    https://www.youtube.com/watch?v=qWL-7ih9Kw0
+- dumb example nesting:
+    https://www.youtube.com/watch?v=3a_Cmh1Srok
