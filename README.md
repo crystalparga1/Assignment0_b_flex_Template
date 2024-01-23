@@ -6,11 +6,17 @@ It looks like this when complete
 
 ![Image description](/images/result.png)
 
+## Assignment
+
+Add borders of your own choosing to make the nested flex containers stand out in your own mind, maybe something like this?
+
+![Image description](/images/borders.png)
+
 ## How to consume this project?
 
 Consume this as you did `https://github.com/CodersCampus/Assignment0Template` by clicking green template button, creating a repository on your github account, and then cloning down to your local box.
 
-Then run it on your box. You don't need to push it back up to your github account, though you could if you wanted to!
+Then run it on your box. Push it back up to your github account for future reference!
 
 ## What to look for
 
