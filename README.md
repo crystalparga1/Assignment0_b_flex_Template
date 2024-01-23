@@ -2,7 +2,7 @@
 
 This is a project to help you understand how to use nested flex box containers.
 
-It looks like this when complete
+It looks like this when you run it.
 
 ![Image description](/images/result.png)
 
